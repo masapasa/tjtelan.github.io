@@ -1,7 +1,7 @@
 title = "T.J. Telan"
 description = "Practical DevOps & Developer Experience"
 # The URL the site will be built for
-base_url = "https://tjtelan.com"
+#base_url = "https://tjtelan.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

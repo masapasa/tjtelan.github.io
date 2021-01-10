@@ -1,7 +1,7 @@
-title = "T.J. Telan"
-description = "Practical DevOps & Developer Experience"
+title = "Nubri"
+description = "Technology and Finance"
 # The URL the site will be built for
-base_url = "https://tjtelan.com"
+#base_url = "https://tjtelan.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -30,7 +30,7 @@ taxonomies = [
 hyde_links = [
   {url = "/now/", name = "Now"},
   {url = "/about/", name = "About"},
-  {url = "https://github.com/tjtelan", name = "Github", icon = "/nav-icons/github.svg"},
+  {url = "https://github.com/masapasa", name = "Github", icon = "/nav-icons/github.svg"},
   {url = "https://dev.to/tjtelan", name = "Dev.to", icon = "/nav-icons/dev-dot-to.svg"},
   {url = "https://medium.com/@tjtelan", name = "Medium", icon = "/nav-icons/medium.svg"},
   #{url = "https://stackoverflow.com/users/1672638/t-j-telan", name = "Stack Overflow", icon = "/nav-icons/stackoverflow.svg"},
